@@ -18,4 +18,6 @@ $$
 > <img src="https://cdn.discordapp.com/attachments/1077051581633151067/1193361191255425195/atencao.png?ex=65ac6f37&is=6599fa37&hm=e95f309fbbc25f43df24276ea2a3a6754ea17b7e16fa848258ced50d9920ef92&" width="20" height="20"> **| Aviso!**
 > Lembrando que o uso de frações e potência pode variar dentro do script. 
 
-<h3>Exemplo (console):</h3>
+<h2>Exemplo (console):</h2>
+
+<p>"João, pesa 87kg e tem a altura de 1.65, seu IMC é de 31, o seu IMC indica que ele está sobre peso."</p>
