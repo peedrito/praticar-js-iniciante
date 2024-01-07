@@ -1,9 +1,9 @@
 
-
 <img src="https://cdn.discordapp.com/attachments/1077051581633151067/1193351411480674314/Exercicios_para_iniciantes.jpg?ex=65ac661b&is=6599f11b&hm=fcd1046c436ac84f3f985a48b8b62c2df2e352519e7a24a81a35583b1e7f9198&">
 
 <h1> Bem-vindo ao exercício (3)! </h1>
 <h3> Muito bem, aqui vamos usar os dados que você prencheu na variavel anterior para calcularmos o IMC. </h3>
+
 
 <h6>. Você deve calcular o IMC e fazer um sistema para arredondar o valor.</h6>
 <h6>. Você deve fazer um sistema que o IMC indica se é uma pessoa saúdavel ou não.</h6>
