@@ -11,8 +11,6 @@
 
 <h3> Fórmula para calcular IMC: </h3>
 
-<script> peso / altura ** 2 </script>
-
 \[
     {imc} = \frac{peso}{altura²}
 \]
