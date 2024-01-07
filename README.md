@@ -10,3 +10,9 @@
 - Se desejar você compartilhar suas respostas no servidor do Discord disponibilizado abaixo.
 - Se você for professor e deseja usar os exercícios, por favor, dê os créditos!
 ### Links úteis para você:
+**[Comunidade p/ desenvolvedores](https://discord.gg/NXeqAhvs9Q)**</br>
+**[Aprenda a programar do zero (gratuito)](https://www.youtube.com/playlist?list=PLn6F6AtId9orioRb1aNo0eVU4gpoju8Tn)**</br>
+**[Gabarito dos exercícios](https://github.com)**
+### Créditos:
+<h6>Pedro Luis C' Lopes</h6>
+<h6>Danilo Antunes Real</h6>
