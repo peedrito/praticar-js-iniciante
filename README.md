@@ -12,7 +12,7 @@
 ### Links úteis para você:
 **[Comunidade p/ desenvolvedores](https://discord.gg/NXeqAhvs9Q)**</br>
 **[Aprenda a programar do zero (gratuito)](https://www.youtube.com/playlist?list=PLn6F6AtId9orioRb1aNo0eVU4gpoju8Tn)**</br>
-**[Gabarito dos exercícios](https://github.com)**
+**[Gabarito dos exercícios](https://github.com/peedrito/gabarito-praticando-js)**
 ### Créditos:
 <h6>Pedro Luis C' Lopes</h6>
 <h6>Danilo Antunes Real</h6>
